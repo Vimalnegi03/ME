@@ -190,7 +190,7 @@ export default function App() {
         }}>
           Web: MERN | Docker | Redis | SQL | Tailwind<br/>
           AI: Vector DBs | Knowledge Graphs | Langchain (+Graph/Smith)<br/>
-          B.Tech 2024 • GATE Qualified • Open Source Contributor
+          B.Tech 2025 • GATE Qualified • Open Source Contributor
         </p>
         <div style={{
           marginTop:32, display:"flex", justifyContent:"center", gap: 18, flexWrap:"wrap"
