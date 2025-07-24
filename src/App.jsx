@@ -59,6 +59,7 @@ const projects = [
     name:"DSA using C++",
     desc:"This repo contains c++ code from basic to advance",
     image:"./DSA.png",
+    link:"https://github.com/Vimalnegi03/DSA_using_C_plus_plus"
   },
 
 ];
